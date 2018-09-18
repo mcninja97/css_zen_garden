@@ -1,0 +1,50 @@
+html{
+	font-family: 'Inconsolata', monospace;
+	cursor:wait
+}
+
+body{
+	 background:#0000aa;
+     color:#ffffff;
+     text-align:center;
+}
+
+h1{
+	 display: inline-block;
+	 background-color: grey;
+     color:#0000aa;
+     font-size: 5em;
+     margin: 0px;
+}
+
+p {
+    margin:30px 100px;
+    text-align:left;
+}
+
+li {
+	width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+
+a{
+	cursor:not-allowed
+}
+a:link{
+	color:yellow;
+}
+a:visited{
+	color:black;
+}
+
+.design-selection{
+	float: left;
+	padding-left: 580px;
+}
+.design-archives{
+	float: left;
+}
+.zen-resources{
+	float: left;
+}

@@ -1,0 +1,2 @@
+the webpage was made to look like a blue screen of death and be bad from a usablity perspective on purpose.
+the mouse will always be a loading cursor unless you are on a link and then it will be a forbidden cursor.
